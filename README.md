@@ -41,6 +41,11 @@ Este proyecto consiste en una serie de visualizaciones desarrolladas en Power BI
 
 3. Explora las diferentes pestañas y gráficos interactivos para obtener insights valiosos.
 
+## Ver la Visualización en Power BI
+
+Puedes ver el dashboard interactivo en el siguiente enlace:  
+[Visualización en Power BI](https://app.powerbi.com/links/CxwPr7RH_o?ctid=567efac9-cbc2-40b1-9f31-3ff06c029097&pbi_source=linkShare&bookmarkGuid=90565dbf-4b98-4970-9bf4-96706400c00e )
+
 ## Consideraciones
 
 - El dataset utilizado es ficticio y las visualizaciones están diseñadas para demostrar el uso de Power BI en la creación de dashboards interactivos.
