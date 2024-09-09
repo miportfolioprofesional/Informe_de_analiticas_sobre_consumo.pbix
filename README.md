@@ -44,7 +44,7 @@ Este proyecto consiste en una serie de visualizaciones desarrolladas en Power BI
 ## Ver la Visualización en Power BI
 
 Puedes ver el dashboard interactivo en el siguiente enlace:  
-[Visualización en Power BI](https://app.powerbi.com/links/CxwPr7RH_o?ctid=567efac9-cbc2-40b1-9f31-3ff06c029097&pbi_source=linkShare&bookmarkGuid=90565dbf-4b98-4970-9bf4-96706400c00e )
+[Visualización en Power BI](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5b9dc3f6-a426-4dda-aa41-d432ec365023)
 
 ## Consideraciones
 
